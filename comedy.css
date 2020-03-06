@@ -1,0 +1,100 @@
+
+.header {
+    margin: 20px;
+    border: white;
+    background-color: white;
+    padding: 150px;
+
+}
+
+.break {
+    padding: 10px;
+    background-color: rgb(66, 65, 65);
+    color: rgb(66, 65, 65);
+    margin: 0;
+}
+
+.header2 {
+    
+    border:  rgb(226, 224, 224);
+    background-color: rgb(226, 224, 224);
+    padding: 150px;
+  
+}
+
+#AandAheader {
+   color: black; 
+   text-align: center;
+   margin: 50px;
+   font-size: 60px;
+}
+
+body {
+    margin: 0px;
+}
+
+.books {
+    display: table;
+    color: black;
+  }
+  
+h3 {
+    font-size: 50;
+    padding-left: 180;
+    padding-right: 180;
+    color: rgb(90, 90, 90);
+    margin: 100;
+}
+
+#row1 {
+    float: left;
+    height:500; 
+    width:500px;
+    margin-left: 100px;
+    margin-top: 150px;
+    text-align: center;
+    box-shadow: 1px 1px 5px rgba(102, 98, 98, 0.835);
+
+}
+
+#row2 {
+    float: right;
+    height:500; 
+    width:500px;
+    margin-right: 140px;
+    margin-top: 150px;
+    text-align: center;
+    box-shadow: 1px 1px 5px rgba(102, 98, 98, 0.835);
+}
+
+#row3 {
+    float: left;
+    height:500; 
+    width:500px;
+    margin-left: 100px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    text-align: center;
+    box-shadow: 1px 1px 5px rgba(102, 98, 98, 0.835);
+}
+
+#row4 {
+    float: right;
+    height:500; 
+    width:500px;
+    margin-right: 140px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    text-align: center;
+    box-shadow: 1px 1px 5px rgba(102, 98, 98, 0.835);
+}
+
+#row5 {
+    float: center;
+    height:500; 
+    width:500px;
+    margin-right: 40px;
+    margin-left: 400px;
+    text-align: center;
+    box-shadow: 1px 1px 5px rgba(102, 98, 98, 0.835);
+}
